@@ -29,7 +29,7 @@ Existen dos vías, según las preferencias de cada jugador.
 
 Es la forma más sencilla y la indicada para la mayoría de los jugadores. Solo requiere tener *DELTARUNE* instalado en el equipo.
 
-1. Descargar `InstaladorLetraDelta.exe` desde la [última versión del instalador](https://github.com/BroxiCoros/LetraDeltaInstaller/releases/latest).
+1. Descargar `InstaladorLetraDelta.exe` desde la [última versión del instalador](https://github.com/BroxiCoros/InstaladorLetraDelta/releases/latest).
 2. Ejecutarlo. El instalador detecta automáticamente la carpeta del juego, descarga los archivos necesarios y aplica todo el parche.
 3. Listo. A partir de ese momento, cuando se publique una versión nueva el mod avisará dentro del juego y descargará los cambios sin necesidad de reinstalar nada.
 
