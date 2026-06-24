@@ -1,4 +1,10 @@
 {
+    "1.0.2": {
+        "description": "- Correcciones menores.",
+        "files": [
+            "chapter1/strings.json"
+        ]
+    },
     "1.0.1": {
         "description": "- Correciones varias.",
         "files": [
