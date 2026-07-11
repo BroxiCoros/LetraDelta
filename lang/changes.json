@@ -1,4 +1,10 @@
 {
+    "5.0.1": {
+        "description": "- Desactivar modo traductor.",
+        "files": [
+            "settings.json"
+        ]
+    },
     "5.0.0": {
         "description": "- Traducción de capítulos 2-5",
         "files": [
