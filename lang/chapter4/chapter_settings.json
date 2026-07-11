@@ -1,0 +1,94 @@
+{
+    "sprites_settings": {
+		"spr_darkmenudesc": {
+            "frame_num": 5,
+			"xoffset": -1,
+			"yoffset": 0,
+			"spr_speed": 1
+        },
+        "IMAGE_LOGO_CENTER_CHAPTERNUMBER": {
+			"xoffset": 65,
+			"yoffset": 9
+        },
+        "spr_gameoverbg_neo": {
+			"xoffset": 0,
+			"yoffset": 15
+        }
+	},
+    "jack_phrases": [
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["YOUR", "       ", "    ", " LONG  "],
+        ["  LO", "       ", "    ", " NG    "],
+
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["    ", "     IS", "    ", "       "],
+        ["    ", " TAKING", " TOO", " LONG  "],
+
+        ["YOUR", " TAKING", " TOO", " TOO   "],
+        ["    ", "       ", " TOO", " TOO   "],
+        ["YOUR", "       ", " TOO", " TOO   "],
+
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["LONG", " TAKING", " TOO", " LONG  "],
+
+
+        ["YOUR", " TOO", " BRIGHT"]
+    ],
+    
+    
+    "jack_timings": [
+        [0, 13, 27, 37],
+        [0, 13, 27, 37],
+        [0, 13, 27, 37],
+        [0, 0, 30, 30],
+        [0, 0, 5, 5],
+
+        [0, 13, 27, 37],
+        [50, 50, 50, 50],
+        [62, 62, 81, 88],
+
+        [0, 13, 27, 37],
+        [0,  0, 27, 37],
+        [0, 13, 27, 37],
+
+        [0, 13, 27, 37],
+        [30, 39, 53, 63],
+
+        [0, 23, 40]
+    ],
+
+    "translators_credits": [
+        [
+            {
+                "header": ["-Traducción al español-"],
+                "text_line": ["Letra Delta"],
+                "columns": 1
+            },
+            {
+                "header": ["-Director-"],
+                "text_line": ["Broxi"],
+                "columns": 1
+            }
+        ],
+        [
+            {
+                "header": ["-Traductores-"],
+                "text_line": ["Lady Bee", "sweetsparklez12"],
+                "columns": 1
+            },
+            {
+                "header": ["-Apoyo-"],
+                "text_line": [
+                    "LinuxPa", 
+                    "Kío", 
+                    "Little Lute", 
+                    "yeye.ilust", 
+                    "Mako"
+                ],
+                "columns": 1
+            }
+        ]
+    ]
+}

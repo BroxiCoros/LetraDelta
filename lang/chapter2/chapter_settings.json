@@ -1,0 +1,26 @@
+{
+    "sprites_settings": {
+		"spr_darkmenudesc": {
+            "frame_num": 5,
+			"xoffset": -1,
+			"yoffset": 0,
+			"spr_speed": 1
+        },
+        "IMAGE_LOGO_CENTER_CHAPTERNUMBER": {
+			"xoffset": 65,
+			"yoffset": 9
+        },
+        "spr_gameoverbg_neo": {
+			"xoffset": 0,
+			"yoffset": 15
+        },
+        "spr_arcade_time": {
+			"xoffset": 15,
+			"yoffset": 0
+        }
+	},
+    "button_sounds_symbols": ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","0","1","2","3","4","5","6","7","8","9","!","?"],
+    "welcome_sign_x1": [10, 36, 46, 64, 88, 118, 136, 160, 170, 199, 231, 267, 287, 324, 346, 356, 381, 410, 440],
+    "welcome_sign_x2": [34, 44, 62, 86, 116, 134, 158, 168, 197, 223, 259, 285, 315, 344, 354, 379, 408, 438, 467],
+    "only_one_tutoriel": false
+}

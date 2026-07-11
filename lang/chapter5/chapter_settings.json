@@ -1,0 +1,59 @@
+{
+    "sprites_settings": {
+		"spr_darkmenudesc": {
+            "frame_num": 5,
+			"xoffset": -1,
+			"yoffset": 0,
+			"spr_speed": 1
+        },
+        "IMAGE_LOGO_CENTER_CHAPTERNUMBER": {
+			"xoffset": 65,
+			"yoffset": 9
+        },
+        "spr_gameoverbg_neo": {
+			"xoffset": 0,
+			"yoffset": 15
+        },
+        "spr_arcade_time": {
+			"xoffset": 15,
+			"yoffset": 0
+        }
+	},
+    "translators_credits": [
+        [
+            {
+                "header": ["-Traducción al español-"],
+                "text_line": ["LetraDelta, Broxi"],
+                "columns": 1
+            },
+            {
+                "header": ["-Doblaje y Arte-"],
+                "text_line": ["Mako"],
+                "columns": 1
+            },
+            {
+                "header": ["-Apoyo-"],
+                "text_line": ["LinuxPa", "Kío", "Little Lute"],
+                "columns": 1
+            }
+        ],
+        [
+            {
+                "header": ["-Menciones honoríficas-"],
+                "text_line": ["Alcachofa", "Sketchy", "yeye.ilust"],
+                "columns": 1
+            },
+            {
+                "header": ["-Traducción-"],
+                "text_line": [
+                    "SHUL_13", 
+                    "Saewsde", 
+                    "sweetsparklez12", 
+                    "Lady Bee", 
+                    "Pera"
+                ],
+                "columns": 1
+            }
+        ]
+    ]
+}
