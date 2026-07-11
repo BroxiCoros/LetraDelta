@@ -1,4 +1,12 @@
 {
+    "5.0.2": {
+        "description": "- Correcciones",
+        "files": [
+            "chapter5/sprites/bg_building_library.png",
+            "chapter5/sprites/bg_dw_castle_music_shop.png",
+            "chapter5/strings.json"
+        ]
+    },
     "5.0.1": {
         "description": "- Desactivar modo traductor.",
         "files": [
