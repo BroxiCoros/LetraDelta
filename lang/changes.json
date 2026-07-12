@@ -1,4 +1,13 @@
 {
+    "5.0.5": {
+        "description": "- Correcciones varias.",
+        "files": [
+            "chapter3/strings.json",
+            "chapter4/strings.json",
+            "chapter5/sprites/spr_lw_flowerking_shadow.png",
+            "chapter5/strings.json"
+        ]
+    },
     "5.0.4": {
         "description": "- Opción para activar o desactivar el doblaje.",
         "files": [
