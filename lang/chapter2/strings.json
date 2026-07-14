@@ -8252,6 +8252,7 @@
   "scr_84_name_input_setup_0_0": "ABCDEFGHIJ",
   "scr_84_name_input_setup_0_1": "KLMNÑOPQRS",
   "scr_84_name_input_setup_0_2": "TUVWXYZ   ",
+  "scr_84_name_input_setup_0_3": "ÁÉÍÓÚÜ%<%<",
   "scr_84_name_input_setup_1_0": "(B)ATRÁS",
   "scr_84_name_input_setup_2_0": "(E)FIN",
   "scr_anyface_slash_scr_anyface_gml_23_0": "\\TX \\F0 \\E~1 \\FB \\TB %",
@@ -12762,6 +12763,5 @@
   "scr_weaponinfo_slash_scr_weaponinfo_gml_515_0": "Je, ¿te robaste esto? Je.",
   "scr_weaponinfo_slash_scr_weaponinfo_gml_516_0": "Es hermoso...",
   "scr_weaponinfo_slash_scr_weaponinfo_gml_517_0": "...",
-  "scr_windowcaption_0_0": "DELTARUNE Capítulo ",
-  "scr_84_name_input_setup_0_3": "ÁÉÍÓÚÜ%<%<"
+  "scr_windowcaption_0_0": "DELTARUNE Capítulo "
 }
