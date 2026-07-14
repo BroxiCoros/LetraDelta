@@ -14,10 +14,6 @@
 			"xoffset": 0,
 			"yoffset": 15
         },
-        "spr_arcade_time": {
-			"xoffset": 15,
-			"yoffset": 0
-        },
         "spr_amogus": {
             "xoffset": 17,
             "yoffset": 21
@@ -25,6 +21,13 @@
 		"spr_funnytext_starwalker": {
 			"xoffset": 70,
 			"yoffset": 50
+			},
+		"spr_battlemsg": {
+			"xoffset": 128,
+			"yoffset": 4
+			},
+		"spr_shop_space_ui": {
+			"xoffset": 17
 			}
 	},
     "video_caption_times": [

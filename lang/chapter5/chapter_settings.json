@@ -14,10 +14,13 @@
 			"xoffset": 0,
 			"yoffset": 15
         },
-        "spr_arcade_time": {
-			"xoffset": 15,
-			"yoffset": 0
-        }
+		"spr_battlemsg": {
+			"xoffset": 128,
+			"yoffset": 4
+			},
+		"spr_shop_space_ui": {
+			"xoffset": 5
+			}
 	},
     "translators_credits": [
         [

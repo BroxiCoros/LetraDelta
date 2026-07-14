@@ -13,7 +13,20 @@
         "spr_gameoverbg_neo": {
 			"xoffset": 0,
 			"yoffset": 15
-        }
+        },
+        "spr_conbini_sign_open": {
+            "xoffset": 6
+        },
+        "spr_conbini_sign_clopen": {
+            "xoffset": 11
+        },
+		"spr_battlemsg": {
+			"xoffset": 128,
+			"yoffset": 4
+			},
+		"spr_shop_space_ui": {
+			"xoffset": 5
+			}
 	},
     "jack_phrases": [
         ["TU", " ESTÁS", " TARDANDO", " MUCHO  "],
