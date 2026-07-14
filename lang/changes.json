@@ -1,4 +1,18 @@
 {
+    "5.1.0": {
+        "description": "- Correcciones grandes.",
+        "files": [
+            "chapter1/strings.json",
+            "chapter2/strings.json",
+            "chapter3/sounds/snd_starwalker.ogg",
+            "chapter3/sprites/spr_funnytext_starwalker.png",
+            "chapter3/strings.json",
+            "chapter4/chapter_settings.json",
+            "chapter4/strings.json",
+            "chapter5/sprites/spr_castle_bakery_base.png",
+            "chapter5/strings.json"
+        ]
+    },
     "5.0.6": {
         "description": "- Corrección de textos.\n- Arreglo de crash.",
         "files": [
