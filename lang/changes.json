@@ -1,4 +1,12 @@
 {
+    "5.1.3": {
+        "description": "- Correcciones ortográficas.",
+        "files": [
+            "chapter2/strings.json",
+            "chapter4/strings.json",
+            "chapter5/strings.json"
+        ]
+    },
     "5.1.2": {
         "description": "- Corregir desbordes y etiqueta.",
         "files": [
