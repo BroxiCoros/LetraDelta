@@ -1,4 +1,11 @@
 {
+    "5.1.5": {
+        "description": "- Corregir etiquetas y desbordes.\n- Capítulos 4 y 5.",
+        "files": [
+            "chapter4/strings.json",
+            "chapter5/strings.json"
+        ]
+    },
     "5.1.4": {
         "description": "- Corregir desborde en cap. 5.",
         "files": [
