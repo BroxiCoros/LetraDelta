@@ -1,4 +1,36 @@
 {
+    "5.1.7": {
+        "description": "- Traducir teclas del cap. 2.",
+        "files": [
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_2.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_A.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_B.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_C.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_D.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_E.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_F.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_G.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_H.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_I.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_J.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_K.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_L.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_M.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_N.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_O.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_P.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_R.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_S.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_T.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_U.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_V.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_Y.ogg",
+            "chapter2/sounds/button_sounds/snd_speak_and_spell_Z.ogg",
+            "chapter2/strings.json",
+            "chapter4/strings.json",
+            "chapter5/strings.json"
+        ]
+    },
     "5.1.6": {
         "description": "- Correcciones y mejoras.",
         "files": [
