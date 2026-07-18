@@ -1,4 +1,13 @@
 {
+    "5.1.8": {
+        "description": "- Mejoras y correcciones varias.",
+        "files": [
+            "chapter2/strings.json",
+            "chapter3/strings.json",
+            "chapter4/strings.json",
+            "chapter5/strings.json"
+        ]
+    },
     "5.1.7": {
         "description": "- Traducir teclas del cap. 2.",
         "files": [
