@@ -20,6 +20,9 @@
 			},
 		"spr_shop_space_ui": {
 			"xoffset": 5
+			},
+		"spr_funnytext_dump_her": {
+			"xoffset": 250
 			}
 	},
     "translators_credits": [
