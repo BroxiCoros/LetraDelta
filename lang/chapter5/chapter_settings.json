@@ -29,7 +29,12 @@
         [
             {
                 "header": ["-Traducción al español-"],
-                "text_line": ["LetraDelta, Broxi"],
+                "text_line": ["LetraDelta"],
+                "columns": 1
+            },
+            {
+                "header": ["-Dirección-"],
+                "text_line": ["Broxi"],
                 "columns": 1
             },
             {
@@ -61,5 +66,9 @@
                 "columns": 1
             }
         ]
-    ]
+    ],
+    "tome_bullet_letters": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "additional_voicelines": {
+        
+    }
 }

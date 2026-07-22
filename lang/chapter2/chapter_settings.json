@@ -14,6 +14,10 @@
 			"xoffset": 0,
 			"yoffset": 15
         },
+		"spr_battlemsg": {
+			"xoffset": 128,
+			"yoffset": 4
+			},
         "spr_arcade_time": {
 			"xoffset": 15,
 			"yoffset": 0
