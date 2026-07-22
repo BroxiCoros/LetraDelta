@@ -1,4 +1,18 @@
 {
+    "5.1.11": {
+        "description": "- Correcciones y traducciones de nuevas líneas.",
+        "files": [
+            "chapter1/strings.json",
+            "chapter2/chapter_settings.json",
+            "chapter2/sprites/spr_battlemsg.png",
+            "chapter2/strings.json",
+            "chapter3/strings.json",
+            "chapter4/strings.json",
+            "chapter5/chapter_settings.json",
+            "chapter5/strings.json",
+            "strings.json"
+        ]
+    },
     "5.1.10": {
         "description": "- Mejoras de traducción.",
         "files": [
