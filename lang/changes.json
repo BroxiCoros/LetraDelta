@@ -1,4 +1,16 @@
 {
+    "5.2.0": {
+        "description": "- Correcciones ortográficas y desbordes.",
+        "files": [
+            "chapter3/sprites/spr_board_healthbar.png",
+            "chapter3/strings.json",
+            "chapter4/sprites/spr_rhythmgame_popularity.png",
+            "chapter4/strings.json",
+            "chapter5/chapter_settings.json",
+            "chapter5/sprites/spr_chapter_insert_prompt_letters.png",
+            "chapter5/strings.json"
+        ]
+    },
     "5.1.11": {
         "description": "- Correcciones y traducciones de nuevas líneas.",
         "files": [
