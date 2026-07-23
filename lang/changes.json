@@ -1,4 +1,12 @@
 {
+    "5.2.1": {
+        "description": "- Corregir fuente de letra.",
+        "files": [
+            "chapter3/strings.json",
+            "fonts/fnt_8bit.ttf",
+            "fonts/fnt_8bit_chapter4.ttf"
+        ]
+    },
     "5.2.0": {
         "description": "- Correcciones ortográficas y desbordes.",
         "files": [
