@@ -23,6 +23,9 @@
 			},
 		"spr_funnytext_dump_her": {
 			"xoffset": 250
+			},
+		"spr_chapter_insert_prompt_letters": {
+            "frame_num": 41
 			}
 	},
     "translators_credits": [
