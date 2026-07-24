@@ -1,4 +1,11 @@
 {
+    "5.2.2": {
+        "description": "- Correcciones menores en créditos.",
+        "files": [
+            "chapter5/sprites/spr_sign_closed.png",
+            "chapter5/strings.json"
+        ]
+    },
     "5.2.1": {
         "description": "- Corregir fuente de letra.",
         "files": [
