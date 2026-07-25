@@ -1,4 +1,10 @@
 {
+    "5.2.4": {
+        "description": "- Corregir desborde.",
+        "files": [
+            "chapter2/strings.json"
+        ]
+    },
     "5.2.3": {
         "description": "- Arreglos varios.",
         "files": [
