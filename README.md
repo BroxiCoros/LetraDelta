@@ -17,7 +17,7 @@ La traducción se rige por la variante del español estándar americano (código
 | 3 | En curso |
 | 4 | En curso |
 
-Las versiones más recientes pueden consultarse en la sección de [*releases*](../../releases) de este repositorio.
+La descarga siempre está disponible en la [última versión](../../releases/latest). El registro de cambios de todas las versiones se encuentra en [`lang/changes.json`](lang/changes.json).
 
 ---
 
