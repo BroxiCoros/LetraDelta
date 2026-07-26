@@ -80,25 +80,27 @@
                 "columns": 1
             },
             {
-                "header": ["-Director-"],
+                "header": ["-Dirección-"],
                 "text_line": ["Broxi"],
+                "columns": 1
+            },
+            {
+                "header": ["-Traducción-"],
+                "text_line": ["Lady Bee", "Kío", "sweetsparklez12"],
                 "columns": 1
             }
         ],
         [
             {
-                "header": ["-Traducción-"],
-                "text_line": ["Lady Bee", "sweetsparklez12"],
+                "header": ["-Gráficos-"],
+                "text_line": ["Mako", "yeye.ilust"],
                 "columns": 1
             },
             {
                 "header": ["-Apoyo-"],
                 "text_line": [
                     "LinuxPa", 
-                    "Kío", 
-                    "Little Lute", 
-                    "yeye.ilust", 
-                    "Mako"
+                    "Little Lute"
                 ],
                 "columns": 1
             }

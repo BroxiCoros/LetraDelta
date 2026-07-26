@@ -74,23 +74,27 @@
                 "columns": 1
             },
             {
-                "header": ["-Director-"],
+                "header": ["-Dirección-"],
                 "text_line": ["Broxi"],
+                "columns": 1
+            },
+            {
+                "header": ["-Traducción-"],
+                "text_line": ["alcachofa47", "Kío", "SHUL_13", "Pablito777"],
                 "columns": 1
             }
         ],
         [
             {
-                "header": ["-Traducción-"],
-                "text_line": ["alcachofa47", "SHUL_13"],
+                "header": ["-Gráficos-"],
+                "text_line": ["Mako", "Lein Moriguo", "Minina 7431"],
                 "columns": 1
             },
             {
-                "header": ["-Gráficos-"],
+                "header": ["-Apoyo-"],
                 "text_line": [
-                    "Mako", 
-                    "Minina 7431",
-                    "Lein Moriguo"
+                    "LinuxPa", 
+                    "napolytus"
                 ],
                 "columns": 1
             }
