@@ -1,4 +1,18 @@
 {
+    "5.2.8": {
+        "description": "- Mejoras de redacción.\n- Correcciones varias.\n- Mejora de sprite.",
+        "files": [
+            "chapter1/sprites/bg_building_diner.png",
+            "chapter2/sprites/bg_building_diner.png",
+            "chapter2/strings.json",
+            "chapter3/strings.json",
+            "chapter4/sprites/bg_building_diner.png",
+            "chapter4/strings.json",
+            "chapter5/sprites/bg_building_diner.png",
+            "chapter5/sprites/bg_darkbuilding_diner.png",
+            "chapter5/strings.json"
+        ]
+    },
     "5.2.7": {
         "description": "- Cambios y correcciones.",
         "files": [
