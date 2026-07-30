@@ -1,4 +1,12 @@
 {
+    "5.2.9": {
+        "description": "- Arreglar etiqueta.",
+        "files": [
+            "chapter1/strings.json",
+            "chapter3/strings.json",
+            "chapter4/strings.json"
+        ]
+    },
     "5.2.8": {
         "description": "- Mejoras de redacción.\n- Correcciones varias.\n- Mejora de sprite.",
         "files": [
