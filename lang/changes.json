@@ -1,4 +1,18 @@
 {
+    "5.3.0": {
+        "description": "- Traducir nuevos sprites.",
+        "files": [
+            "chapter2/strings.json",
+            "chapter3/strings.json",
+            "chapter5/chapter_settings.json",
+            "chapter5/sprites/spr_pink_mewers_live.png",
+            "chapter5/sprites/spr_pink_mewers_live_dim.png",
+            "chapter5/sprites/spr_pink_mewers_live_dim_easy.png",
+            "chapter5/sprites/spr_pink_mewers_live_dim_hard.png",
+            "chapter5/strings.json",
+            "strings.json"
+        ]
+    },
     "5.2.12": {
         "description": "- Solución temporal de sprites.",
         "files": [
