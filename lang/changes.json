@@ -1,4 +1,10 @@
 {
+    "5.2.11": {
+        "description": "- Corregir desbordes.",
+        "files": [
+            "chapter5/strings.json"
+        ]
+    },
     "5.2.10": {
         "description": "- Agregar nuevos textos de actualización.",
         "files": [
