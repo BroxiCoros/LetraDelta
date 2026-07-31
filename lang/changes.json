@@ -1,4 +1,13 @@
 {
+    "5.2.10": {
+        "description": "- Agregar nuevos textos de actualización.",
+        "files": [
+            "chapter2/strings.json",
+            "chapter3/sprites/spr_rhythmgame_popularity.png",
+            "chapter4/strings.json",
+            "chapter5/strings.json"
+        ]
+    },
     "5.2.9": {
         "description": "- Arreglar etiqueta.",
         "files": [
