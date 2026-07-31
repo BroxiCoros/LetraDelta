@@ -13,9 +13,10 @@ La traducción se rige por la variante del español estándar americano (código
 | Capítulo | Estado |
 | :--- | :--- |
 | 1 | Publicado |
-| 2 | En curso |
-| 3 | En curso |
-| 4 | En curso |
+| 2 | Publicado |
+| 3 | Publicado |
+| 4 | Publicado |
+| 5 | Publicado |
 
 La descarga siempre está disponible en la [última versión](../../releases/latest). El registro de cambios de todas las versiones se encuentra en [`lang/changes.json`](lang/changes.json).
 
@@ -85,19 +86,31 @@ Broxi
 
 ### Traducción
 
-Broxi · Sketchy · NoSoyKío · LinuxPa · Chikaranni · sweetsparklez · SHUL_13 · Isragramm · Pablito777 · Rigel
+Broxi · Sketchy · alcachofa · NoSoyKío · LinuxPa · Saewsde · ItsLadyBee · Chikaranni · sweetsparklez · SHUL_13 · Pablito777 · Little Lute
 
 ### Revisión
 
-napolytus · Staipor · Mapple_Yellow · JoaTank · alcachofa47 · Angeldx567 · Minina 7431
+napolytus · Staipor · Mapple_Yellow · JoaTank · alcachofa · Angeldx567 · Minina 7431 · Ant
 
 ### Arte
 
-Sketchy · NoSoyKío · Minina 7431 · Mako · Lein Moriguo · AngeldavixMC · Broxi
+Sketchy · NoSoyKío · Minina 7431 · Mako · yeye.ilust · Lein Moriguo · Broxi
 
 ### Programación
 
-LinuxPa · Broxi
+LinuxPa · Broxi · Perabajadev
+
+### Doblaje
+
+Mako — Flowery
+
+### Producción de audio
+
+Little Lute
+
+### Tráiler y video dentro del juego
+
+LinuxPa
 
 ### Reconocimientos
 
