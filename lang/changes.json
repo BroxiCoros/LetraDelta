@@ -1,4 +1,15 @@
 {
+    "5.2.12": {
+        "description": "- Solución temporal de sprites.",
+        "files": [
+            "chapter3/strings.json",
+            "chapter4/strings.json",
+            "chapter5/sprites/spr_pink_mewers_live.png",
+            "chapter5/sprites/spr_pink_mewers_live_dim.png",
+            "chapter5/sprites/spr_pink_mewers_live_dim_easy.png",
+            "chapter5/sprites/spr_pink_mewers_live_dim_hard.png"
+        ]
+    },
     "5.2.11": {
         "description": "- Corregir desbordes.",
         "files": [
