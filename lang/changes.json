@@ -1,4 +1,16 @@
 {
+    "5.3.2": {
+        "description": "- Correcciones y arreglar sprite.",
+        "files": [
+            "chapter1/strings.json",
+            "chapter2/strings.json",
+            "chapter3/strings.json",
+            "chapter4/strings.json",
+            "chapter5/sprites/spr_bromide_r.png",
+            "chapter5/sprites/spr_bromide_r_tag.png",
+            "chapter5/strings.json"
+        ]
+    },
     "5.3.1": {
         "description": "- Corregir fuente.\n- Corregir textos.\n- Actualizar audios.",
         "files": [
