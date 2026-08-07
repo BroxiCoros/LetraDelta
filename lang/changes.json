@@ -1,4 +1,10 @@
 {
+    "5.3.4": {
+        "description": "- Pequeña corrección.",
+        "files": [
+            "chapter5/strings.json"
+        ]
+    },
     "5.3.3": {
         "description": "- Arreglar textos.",
         "files": [
