@@ -24,9 +24,8 @@ jobs:
       - name: Instalar 7-Zip
         run: sudo apt-get update && sudo apt-get install -y p7zip-full
 
-      # Lee `lang_code` desde lang/settings.json. El mismo workflow funciona
-      # tanto en LetraDelta (lang_code=es_mx) como en LetraDelta-EN (lang_code=en),
-      # sin que ninguno tenga que tener su código fijado a mano en el .yml.
+      # Lee `lang_code` desde lang/settings.json, sin que el código del idioma
+      # tenga que estar fijado a mano en el .yml.
       - name: Detectar lang_code desde settings.json
         id: langcode
         run: |

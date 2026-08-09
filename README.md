@@ -36,7 +36,7 @@ Es la forma más sencilla y la indicada para la mayoría de los jugadores. Solo 
 
 El instalador también ofrece la opción de **versión con bordes (NXRUNE)** durante la instalación, por si se prefiere esa variante visual.
 
-Junto con el pack de español, el instalador descarga también el [pack de inglés](https://github.com/BroxiCoros/LetraDelta-EN). Así, una vez aplicado el mod, el juego permite alternar entre ambos idiomas desde su menú interno y conserva la opción de jugar en inglés cuando se desee.
+El mod conserva el inglés original como idioma nativo, sin necesidad de un paquete aparte. Así, una vez aplicado, el juego permite alternar entre ambos idiomas desde su menú interno y conserva la opción de jugar en inglés cuando se desee.
 
 ### Vía manual — Reemplazo directo de archivos
 
@@ -67,14 +67,13 @@ El equipo trabaja de forma coordinada a través del servidor de Discord. Quien d
 
 ## Repositorios del proyecto
 
-*LetraDelta* se compone de cuatro repositorios coordinados:
+*LetraDelta* se compone de tres repositorios coordinados:
 
 | Repositorio | Contenido |
 |------|-----------|
 | **[LetraDelta](https://github.com/BroxiCoros/LetraDelta)** | Este repositorio. Pack de español (`lang/`). |
-| **[LetraDelta-EN](https://github.com/BroxiCoros/LetraDelta-EN)** | Pack de inglés, para mantener disponible el idioma original junto con el español. |
 | **[DeltranslatePatch](https://github.com/BroxiCoros/DeltranslatePatch)** | *Fork* del mod *Deltranslate* con un refactor propio. Provee el `scripts.7z` que parchea el juego. |
-| **[InstaladorLetraDelta](https://github.com/BroxiCoros/InstaladorLetraDelta)** | Instalador `.exe` para Windows que coordina los tres anteriores. |
+| **[InstaladorLetraDelta](https://github.com/BroxiCoros/InstaladorLetraDelta)** | Instalador `.exe` para Windows que coordina los dos anteriores. |
 
 ---
 
