@@ -93,7 +93,7 @@ napolytus · Staipor · Mapple_Yellow · JoaTank · alcachofa · Angeldx567 · M
 
 ### Arte
 
-Sketchy · NoSoyKío · Minina 7431 · Mako · yeye.ilust · Lein Moriguo · Broxi
+Sketchy · NoSoyKío · Minina 7431 · Mako · YeyeIllust · Lein Moriguo · Broxi
 
 ### Programación
 
