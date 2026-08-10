@@ -1,4 +1,15 @@
 {
+    "5.3.5": {
+        "description": "- Corregir puntuación.\n- Corregir líneas heredadas.",
+        "files": [
+            "chapter1/strings.json",
+            "chapter2/strings.json",
+            "chapter3/strings.json",
+            "chapter4/chapter_settings.json",
+            "chapter5/chapter_settings.json",
+            "chapter5/strings.json"
+        ]
+    },
     "5.3.4": {
         "description": "- Pequeña corrección.",
         "files": [
