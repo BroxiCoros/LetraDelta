@@ -1,4 +1,39 @@
 {
+    "5.3.6": {
+        "description": "- Actualizar recursos.",
+        "files": [
+            "chapter1/chapter_settings.json",
+            "chapter1/strings.json",
+            "chapter2/chapter_settings.json",
+            "chapter2/strings.json",
+            "chapter3/chapter_settings.json",
+            "chapter3/sounds/button_sounds/snd_speak_and_spell_A.ogg",
+            "chapter3/sounds/button_sounds/snd_speak_and_spell_B.ogg",
+            "chapter3/sprites/spr_battlemsg.png",
+            "chapter3/sprites/spr_rhythmgame_popularity.png",
+            "chapter3/sprites/spr_susie_chef_doubleres.png",
+            "chapter3/strings.json",
+            "chapter4/chapter_settings.json",
+            "chapter4/sprites/bg_building_icee_construction.png",
+            "chapter4/sprites/spr_battlemsg.png",
+            "chapter4/sprites/spr_rhythmgame_popularity.png",
+            "chapter4/strings.json",
+            "chapter5/chapter_settings.json",
+            "chapter5/sprites/spr_battlemsg.png",
+            "chapter5/sprites/spr_lw_fix_barricade.png",
+            "chapter5/sprites/spr_lw_library_shadow.png",
+            "chapter5/sprites/spr_rhythmgame_popularity.png",
+            "chapter5/sprites/spr_susie_cook.png",
+            "chapter5/sprites/spr_town_conbini_sign_nope.png",
+            "chapter5/strings.json",
+            "fonts/fnt_8bit.ttf",
+            "fonts/fnt_comicsans.ttf",
+            "fonts/fnt_dotumche.ttf",
+            "fonts/fnt_legend.ttf",
+            "fonts/fnt_tinynoelle.ttf",
+            "strings.json"
+        ]
+    },
     "5.3.5": {
         "description": "- Corregir puntuación.\n- Corregir líneas heredadas.",
         "files": [
